@@ -12,7 +12,7 @@
 
 ▶ What do we do in [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
 
-📌 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: **Computer science**, **Cyber Security**, **Gaming**, **Web Development**, **Mobile Development**, **Data Science**, **Embedded system** and **Graphic Design**.
+📌 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: **Computer science**, **Cyber Security**, **Gaming**, **Web Development**, **Mobile Development**, **Data Science** and **Graphic Design**.
 
 ------------
 
